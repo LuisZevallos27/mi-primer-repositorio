@@ -6,3 +6,5 @@ Prueba de VSCode desde el navegador de la universidad
 Segunda linea de prueba
 
 AVANZA TU PROYECTO
+
+Prueba de commit desde VSCode
